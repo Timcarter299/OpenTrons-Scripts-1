@@ -106,7 +106,7 @@ def run(protocol: protocol_api.ProtocolContext):
      
     # REAGENTS
     #reagent_rack
-    water = reagent_rack['A1'] # water or sample; 9338.89ul
+    #water = reagent_rack['A1'] # water or sample; 9338.89ul
     detergent = reagent_rack['A2'] # detergent e.g. Ultralyse 7, Ultralyse X3; 8085.11ul
     lurb = reagent_rack['B1'] #Raquel's V2 mix form 22 April 2021; 17424.5ul
     #epp_rack
@@ -185,7 +185,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p20.pick_up_tip()
             for row in rows:
                 dest = row + str(cols[count])
-                p20.aspirate(detergent_vol[count], lurb.bottom(detergent_h[sample_count]))
+                p20.aspirate(detergent_vol[count], detergent.bottom(detergent_h[sample_count]))
                 p20.touch_tip(lurb, v_offset = -5)
                 p20.move_to(lurb.top())
                 p20.dispense(detergent_vol[count], plate[dest].bottom(3))
@@ -199,7 +199,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p300.pick_up_tip()
             for row in rows:
                 dest = row + str(cols[count])
-                p300.aspirate(detergent_vol[count], lurb.bottom(detergent_h[sample_count]))
+                p300.aspirate(detergent_vol[count], detergent.bottom(detergent_h[sample_count]))
                 p300.touch_tip(lurb, v_offset = -5)
                 p300.move_to(lurb.top())
                 p300.dispense(detergent_vol[count], plate[dest].bottom(3))
