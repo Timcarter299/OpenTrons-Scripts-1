@@ -1,3 +1,5 @@
+from opentrons import protocol_api
+from opentrons.commands.commands import dispense, drop_tip
 
 # metadata
 metadata = {
@@ -89,6 +91,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p300.blow_out(std_wells[i+1].bottom(h_mix))# blow out just below the surface
     p300.drop_tip()
 
+    #add first 4 standards to top half of tubes
     count = 0 # keep track of standard 
     for row in rows:
         p300.pick_up_tip()

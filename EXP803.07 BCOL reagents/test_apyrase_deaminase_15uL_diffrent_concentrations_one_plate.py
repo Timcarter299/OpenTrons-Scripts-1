@@ -1,4 +1,5 @@
 from opentrons import protocol_api
+from opentrons.commands.commands import move_to
 
 # metadata
 metadata = {
@@ -114,9 +115,9 @@ def run(protocol: protocol_api.ProtocolContext):
     ddil_3 = fuge_rack ['B3']
     ddil_4 = fuge_rack ['B4']
     trash = fuge_rack ['D6']
-    lurb_nl = fuge_rack ['C1']
-    water = reagent_rack ['B1']
-    lurb = reagent_rack ['A1']
+    lurb_nl = fuge_rack ['C1'] #use 1480 uL add 1.75ml 
+    water = reagent_rack ['B1'] #use 2800 uL, add 5ml
+    lurb = reagent_rack ['A1'] #use 14800 uL, add 18ml
    
     #lists
     treat_vol = 15
@@ -140,25 +141,24 @@ def run(protocol: protocol_api.ProtocolContext):
         for row in rows:  
             dest = row+str(col)
             p300.aspirate(buf_vol, lurb.bottom(sample_h[sample_counter]))
-            p300.dispense(buf_vol, plate[dest].bottom(5))
-            p300.blow_out(plate[dest].bottom(5)) 
+            protocol.delay(seconds=2)
+            p300.touch_tip(v_offset=-5)
+            p300.dispense(buf_vol, plate[dest].bottom(5)) 
             p300.move_to(plate[dest].bottom())
             sample_counter += 1
         p300.drop_tip()
     
     # adds water to untreated wells
-    sample_counter = 0
-    sample_h = fifty_ml_heights(5000, 40, 15) # volumes are different, so take median
     for row in rows:    
         p300.pick_up_tip()
-        p300.aspirate(80, water)
+        p300.aspirate(80, water.bottom(5), rate=.75)
+        protocol.delay(seconds=2)       
         for col in ucol: 
             dest = row+str(col)
             p300.dispense(treat_vol, plate[dest].bottom(5))
             p300.move_to(plate[dest].bottom())
         p300.drop_tip()
-        sample_counter += 1
-
+       
     # adds deaminase to wells 
     sample_counter = 0
     for row in rows[::2]:    
@@ -189,7 +189,7 @@ def run(protocol: protocol_api.ProtocolContext):
         if sample_counter == 4:
             break
 
-    #adds luminase buffer without luciferase
+    #adds luminase buffer without luciferase 
     p300.pick_up_tip()
     sample_counter = 0
     for col in bwlcol: 
@@ -197,17 +197,15 @@ def run(protocol: protocol_api.ProtocolContext):
             dest = row+str(col)
             p300.aspirate(buf_vol, lurb_nl)
             p300.dispense(buf_vol, plate[dest].bottom(5))
-            p300.blow_out(plate[dest].bottom(5)) 
             p300.move_to(plate[dest].bottom())
             sample_counter += 1
     p300.drop_tip()
 
     # adds  water to buffer without luciferase wells
     p300.pick_up_tip()
-    sample_counter = 0
-    sample_h = fifty_ml_heights(4400, 8, 15) # volumes are different, so take median
     for col in bwlcol: 
-        p300.aspirate(135, water)
+        p300.aspirate(135, water.bottom(5), rate=.75)
+        protocol.delay(seconds=2)       
         for row in rows:    
             dest = row+str(col)
             p300.dispense(treat_vol, plate[dest].bottom(5))
@@ -218,16 +216,13 @@ def run(protocol: protocol_api.ProtocolContext):
   
     #add water to final column 
     p300.pick_up_tip()
-    sample_h = fifty_ml_heights(4280, 8, 185) # volumes are different, so take median
-    sample_counter = 0
     for col in wcol: 
         for row in rows:  
             dest = row+str(col)
-            p300.aspirate(trxn_vol, water.bottom(sample_h[sample_counter]))
-            p300.dispense(trxn_vol, plate[dest].bottom(5))
-            p300.blow_out(plate[dest].bottom(5)) 
+            p300.aspirate(trxn_vol, water.bottom(5), rate=.75)
+            protocol.delay(seconds=2)       
+            p300.dispense(trxn_vol, plate[dest].bottom(5)) 
             p300.move_to(plate[dest].bottom())
             sample_counter += 1
     p300.drop_tip()
-
 

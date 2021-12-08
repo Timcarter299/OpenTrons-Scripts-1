@@ -56,15 +56,15 @@ def run(protocol: protocol_api.ProtocolContext):
 
     # LISTS
     std_wells = [std_1, std_2, std_3, std_4, std_5, std_6, std_7, std_8, std_9, std_10, std_11, std_12, std_13, std_14, std_15]
-    std_conc = [std_4, std_5, std_6, std_7, std_8,]
+    std_conc = [std_5, std_6, std_7, std_8, std_9,]
     cols = [1, 3, 5, 7, 9, 11]
     rows = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
     
     
     
     ### COMMANDS ######
-    #Make std dilution series      
-    #Make 10nM pos control, std_1
+    # Make std dilution series      
+    # Make 10nM pos control, std_1
     p300.transfer(
         100,
         pos_control.bottom(2), #1uM
@@ -73,7 +73,7 @@ def run(protocol: protocol_api.ProtocolContext):
         touch_tip=False
     )
    
-    # serial dilutions in microfuge tubes, 10% diliutions
+   #serial dilutions in microfuge tubes, 10% diliutions
     for i in range(len(std_wells)-1): 
         h_mix = 20
         p300.pick_up_tip()
@@ -95,9 +95,17 @@ def run(protocol: protocol_api.ProtocolContext):
 
 
     #add master mix and primers to PRC tubes
+    for col in cols:
+        p20.pick_up_tip()
+        for row in rows[0:4]:
+            p20.aspirate(18, mmp_tube)
+            p20.touch_tip(v_offset=-5)
+            p20.dispense(18, holder_1[row + str(col)])
+        p20.drop_tip()
+
     for col in cols[0:2]:
         p20.pick_up_tip()
-        for row in rows:
+        for row in rows[4: ]:
             p20.aspirate(18, mmp_tube)
             p20.touch_tip(v_offset=-5)
             p20.dispense(18, holder_1[row + str(col)])
@@ -107,56 +115,40 @@ def run(protocol: protocol_api.ProtocolContext):
     count = 0 # keep track of standard
     for row in rows:
         p20.pick_up_tip()
-        p20.aspirate(6, std_conc[count]) #take from standand 
+        p20.aspirate(14, std_conc[count]) #take from standand 
         p20.touch_tip()
-        for col in cols[0:2]:
+        for col in cols:
             p20.dispense(2, holder_1[row + str(col)]) # dispense in PCR tubes  
             p20.touch_tip()
         p20.dispense(2, waste)
-        p20.blow_out(waste)
+        p20.blow_out(waste.bottom(5))
         p20.drop_tip()
         count = count + 1
         if count == 4:
             break
-
-    # #add first 4 standards to lower half of tubes
-    count = 0 #reset count
-    for row in rows[4: ]:
-        p20.pick_up_tip()
-        p20.aspirate(4, std_conc[count])
-        p20.touch_tip()
-        for col in cols[0:1]:
-            p20.dispense(2, holder_1[row + str(col)])
-            p20.touch_tip()
-        p20.dispense(2, waste)
-        p20.blow_out(waste)
-        p20.drop_tip()
-        count = count + 1     
-        if count == 4:
-            break       
     
     #add final standard 
     for row in rows[4:7]:
         p20.pick_up_tip()
-        p20.aspirate(8, std_conc[count])
+        p20.aspirate(6, std_conc[count])
         p20.touch_tip()
-        for col in cols[1:2]:
+        for col in cols[0:2]:
             p20.dispense(2, holder_1[row + str(col)])
             p20.touch_tip()
         p20.dispense(2, waste)
-        p20.blow_out(waste)
+        p20.blow_out(waste.bottom(5))
         p20.drop_tip()
         
     # add water to last 3 wells
     for row in rows[7:8]:
         p20.pick_up_tip()
-        p20.aspirate(4, water)
+        p20.aspirate(6, water)
         p20.touch_tip()
-        for col in cols[1:2]:
+        for col in cols[0:2]:
             p20.dispense(2, holder_1[row + str(col)])
             p20.touch_tip()
         p20.dispense(2, waste)
-        p20.blow_out(waste)
+        p20.blow_out(waste.bottom(5))
         p20.drop_tip()
        
 

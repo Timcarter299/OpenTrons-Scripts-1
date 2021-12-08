@@ -97,14 +97,16 @@ def run(protocol: protocol_api.ProtocolContext):
     #add master mix and primers to PRC tubes
     for col in cols:
         p20.pick_up_tip()
-        for row in rows:
+        for row in rows:   
             p20.aspirate(18, mmp_tube)
+            # p20.move_to(mmp_tube)
+            # protocol.delay(seconds=2)
             p20.touch_tip(v_offset=-5)
             p20.dispense(18, holder_1[row + str(col)])
         p20.drop_tip()
 
     #add first 4 standards to upper half of tubes
-    count = 0 # keep track of standard
+    count = 0 # keep track of standard 
     for row in rows:
         p20.pick_up_tip()
         p20.aspirate(14, std_conc[count]) #take from standand 
@@ -113,7 +115,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p20.dispense(2, holder_1[row + str(col)]) # dispense in PCR tubes  
             p20.touch_tip()
         p20.dispense(2, waste)
-        p20.blow_out(waste)
+        p20.blow_out(waste.bottom())
         p20.drop_tip()
         count = count + 1
         if count == 4:
@@ -129,7 +131,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p20.dispense(2, holder_1[row + str(col)])
             p20.touch_tip()
         p20.dispense(2, waste)
-        p20.blow_out(waste)
+        p20.blow_out(waste.bottom())
         p20.drop_tip()
         count = count + 1     
         if count == 4:
@@ -144,7 +146,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p20.dispense(2, holder_1[row + str(col)])
             p20.touch_tip()
         p20.dispense(2, waste)
-        p20.blow_out(waste)
+        p20.blow_out(waste.bottom())
         p20.drop_tip()
         
     # add water to last 3 wells
@@ -156,7 +158,7 @@ def run(protocol: protocol_api.ProtocolContext):
             p20.dispense(2, holder_1[row + str(col)])
             p20.touch_tip()
         p20.dispense(2, waste)
-        p20.blow_out(waste)
+        p20.blow_out(waste.bottom())
         p20.drop_tip()
        
 

@@ -1,0 +1,2099 @@
+BWP_mix_xfer_sN_mix 417.36000000000007
+bpw_mix_xfer_bpwd_mix 1244.6208000000001
+Picking up tip from A1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 3 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 139.12000000000003 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 139.12000000000003 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Blowing out at D1 of VWR 24 Tube Rack 1500 킠 on 2
+Touching tip
+Aspirating 139.12000000000003 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 139.12000000000003 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Blowing out at D1 of VWR 24 Tube Rack 1500 킠 on 2
+Touching tip
+Aspirating 139.12000000000003 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 139.12000000000003 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Blowing out at D1 of VWR 24 Tube Rack 1500 킠 on 2
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 56.400000000000006 from B2 of VWR 24 Tube Rack 1500 킠 on 1 to D1 of VWR 24 Tube Rack 1500 킠 on 2
+	Picking up tip from B1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+	Aspirating 56.400000000000006 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Dispensing 56.400000000000006 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 16.92 from C2 of VWR 24 Tube Rack 1500 킠 on 1 to D1 of VWR 24 Tube Rack 1500 킠 on 2
+	Picking up tip from A1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 16.92 uL from C2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 16.92 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Mixing 2 times with a volume of 20.0 ul
+		Aspirating 20.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+		Dispensing 20.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+		Aspirating 20.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+		Dispensing 20.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Blowing out at D1 of VWR 24 Tube Rack 1500 킠 on 2
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 16.92 from D2 of VWR 24 Tube Rack 1500 킠 on 1 to D1 of VWR 24 Tube Rack 1500 킠 on 2
+	Picking up tip from B1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 16.92 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 16.92 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Mixing 2 times with a volume of 20.0 ul
+		Aspirating 20.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+		Dispensing 20.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+		Aspirating 20.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+		Dispensing 20.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Blowing out at D1 of VWR 24 Tube Rack 1500 킠 on 2
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 2 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Mixing 2 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Mixing 5 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Aspirating 63.288 uL from D1 of VWR 24 Tube Rack 1500 킠 on 2 at 37.144 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Moving to D1 of VWR 24 Tube Rack 1500 킠 on 2
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 63.288 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 46.43 uL/sec
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from D1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from A3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at C3 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C3 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C3 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C3 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from E1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from A4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at C4 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C4 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C4 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C4 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from F1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from A5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at C5 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C5 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C5 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C5 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from G1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from A6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at C6 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C6 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C6 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to C6 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into G12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to G12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at G12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from H1 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from B3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at D3 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D3 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D3 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D3 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D3 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D3 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H1 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from A2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from B4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at D4 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D4 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D4 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D4 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from B2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from B5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at D5 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D5 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D5 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D5 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Picking up tip from C2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Aspirating 7.032 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 3.024 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Touching tip
+Dispensing 7.032 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Mixing 2 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Aspirating 20.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 20.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+Blowing out at D6 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D6 of VWR 24 Tube Rack 1500 킠 on 2
+Mixing 7 times with a volume of 50.0 ul
+	Aspirating 50.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Aspirating 50.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+	Dispensing 50.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 2 at 92.86 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D6 of VWR 24 Tube Rack 1500 킠 on 2
+Moving to D6 of VWR 24 Tube Rack 1500 킠 on 2
+Aspirating 20.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 2 at 3.78 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into H12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 6.425999999999999 uL/sec
+Moving to H12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at H12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 3 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 177.80297142857145 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 177.80297142857145 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Aspirating 177.80297142857145 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 177.80297142857145 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Aspirating 177.80297142857145 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 177.80297142857145 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Aspirating 177.80297142857145 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 177.80297142857145 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Aspirating 177.80297142857145 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 177.80297142857145 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Aspirating 177.80297142857145 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 177.80297142857145 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Aspirating 177.80297142857145 uL from D1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 177.80297142857145 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 16.8192 from B4 of VWR 24 Tube Rack 1500 킠 on 2 to A1 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from C2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 16.8192 uL from B4 of VWR 24 Tube Rack 1500 킠 on 2 at 7.56 uL/sec
+	Dispensing 16.8192 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Mixing 2 times with a volume of 16.8192 ul
+		Aspirating 16.8192 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+		Dispensing 16.8192 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+		Aspirating 16.8192 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+		Dispensing 16.8192 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 151.37279999999998 from B2 of VWR 24 Tube Rack 1500 킠 on 1 to A1 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from E2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+	Aspirating 151.37279999999998 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 151.37279999999998 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 2 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Mixing 2 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Mixing 5 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into A1 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A1 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at C4 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at C4 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at C5 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at C5 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at C6 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at C6 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at D4 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at D4 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at D5 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at D5 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at D6 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 109.872 uL from A1 of VWR 24 Tube Rack 1500 킠 on 1 at 74.288 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 109.872 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at D6 of VWR 24 Tube Rack 1500 킠 on 1
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring [1.308, 2.616, 5.232, 10.464, 15.695999999999996, 20.928] from D2 of VWR 24 Tube Rack 1500 킠 on 1 to C4 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from D2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 1.308 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dispensing 1.308 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from E2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 2.616 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dispensing 2.616 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from F2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 5.232 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dispensing 5.232 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from G2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 10.464 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dispensing 10.464 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from H2 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 15.695999999999996 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dispensing 15.695999999999996 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from A3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 10.464 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dispensing 10.464 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from B3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 10.464 uL from D2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dispensing 10.464 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring [19.619999999999997, 18.311999999999998, 15.696, 10.464, 5.232000000000001, 0.0] from B2 of VWR 24 Tube Rack 1500 킠 on 1 to C4 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from C3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 19.619999999999997 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 19.619999999999997 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from D3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 18.311999999999998 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 18.311999999999998 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from E3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 15.696 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 15.696 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from F3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 10.464 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 10.464 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from G3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 5.232000000000001 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 5.232000000000001 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+	Picking up tip from H3 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 6 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 110.4 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Aspirating 110.4 uL from C4 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from H2 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 6 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 110.4 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Aspirating 110.4 uL from C5 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from A3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 6 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into C6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 110.4 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Aspirating 110.4 uL from C6 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 6 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 110.4 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Aspirating 110.4 uL from D4 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 6 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 110.4 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Aspirating 110.4 uL from D5 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Mixing 6 times with a volume of 200.0 ul
+	Aspirating 200.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 200.0 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 200.0 uL into D6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Aspirating 110.4 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Aspirating 110.4 uL from D6 of VWR 24 Tube Rack 1500 킠 on 1 at 37.144 uL/sec
+Delaying for 0 minutes and 3.0 seconds
+Dispensing 36.800000000000004 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Touching tip
+Dispensing 36.800000000000004 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 46.43 uL/sec
+Blowing out at F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring [93.75, 87.5, 75.0, 50.0, 25.0, 0.0] from B2 of VWR 24 Tube Rack 1500 킠 on 1 to A4 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from E3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+	Aspirating 93.75 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Dispensing 93.75 uL into A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Aspirating 87.5 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Dispensing 87.5 uL into A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Aspirating 75.0 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Dispensing 75.0 uL into A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Aspirating 50.0 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Dispensing 50.0 uL into B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Aspirating 25.0 uL from B2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Dispensing 25.0 uL into B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Touching tip
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 6.25 from C2 of VWR 24 Tube Rack 1500 킠 on 1 to A4 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from A4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 6.25 uL from C2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 6.25 uL into A4 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 12.5 from C2 of VWR 24 Tube Rack 1500 킠 on 1 to A5 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from B4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+	Aspirating 12.5 uL from C2 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dispensing 12.5 uL into A5 of VWR 24 Tube Rack 1500 킠 on 1 at 7.56 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 25.0 from C2 of VWR 24 Tube Rack 1500 킠 on 1 to A6 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from F3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+	Aspirating 25.0 uL from C2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 25.0 uL into A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 50.0 from C2 of VWR 24 Tube Rack 1500 킠 on 1 to B4 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from G3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+	Aspirating 50.0 uL from C2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 50.0 uL into B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 75.0 from C2 of VWR 24 Tube Rack 1500 킠 on 1 to B5 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from H3 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+	Aspirating 75.0 uL from C2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 75.0 uL into B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Transferring 100.0 from C2 of VWR 24 Tube Rack 1500 킠 on 1 to B6 of VWR 24 Tube Rack 1500 킠 on 1
+	Picking up tip from A4 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+	Aspirating 100.0 uL from C2 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 100.0 uL into B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from B4 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Picking up tip from C4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Mixing 4 times with a volume of 78.0 ul
+	Aspirating 78.0 uL from A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A4 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A4 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 20.0 uL from A4 of VWR 24 Tube Rack 1500 킠 on 1 at 3.024 uL/sec
+Moving to A4 of VWR 24 Tube Rack 1500 킠 on 1
+Delaying for 0 minutes and 1.0 seconds
+Touching tip
+Dispensing 3.2 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Blowing out at B1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from A1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into A2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to A2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at A2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from B1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into B2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to B2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at B2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into C2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to C2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at C2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into D2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to D2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at D2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from E1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into E2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to E2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at E2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from F1 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into F2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to F2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at F2 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from C4 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Picking up tip from D4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Mixing 4 times with a volume of 78.0 ul
+	Aspirating 78.0 uL from A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A5 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A5 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 20.0 uL from A5 of VWR 24 Tube Rack 1500 킠 on 1 at 3.024 uL/sec
+Moving to A5 of VWR 24 Tube Rack 1500 킠 on 1
+Delaying for 0 minutes and 1.0 seconds
+Touching tip
+Dispensing 3.2 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Blowing out at B1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from A3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into A4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to A4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at A4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from B3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into B4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to B4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at B4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into C4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to C4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at C4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into D4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to D4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at D4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from E3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into E4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to E4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at E4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from F3 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into F4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to F4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at F4 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from D4 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Picking up tip from E4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Mixing 4 times with a volume of 78.0 ul
+	Aspirating 78.0 uL from A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into A6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at A6 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A6 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 20.0 uL from A6 of VWR 24 Tube Rack 1500 킠 on 1 at 3.024 uL/sec
+Moving to A6 of VWR 24 Tube Rack 1500 킠 on 1
+Delaying for 0 minutes and 1.0 seconds
+Touching tip
+Dispensing 3.2 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Blowing out at B1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from A5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into A6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to A6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at A6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from B5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into B6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to B6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at B6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into C6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to C6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at C6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into D6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to D6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at D6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from E5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into E6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to E6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at E6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from F5 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into F6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to F6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at F6 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from E4 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Picking up tip from F4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Mixing 4 times with a volume of 78.0 ul
+	Aspirating 78.0 uL from B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B4 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at B4 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to B4 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 20.0 uL from B4 of VWR 24 Tube Rack 1500 킠 on 1 at 3.024 uL/sec
+Moving to B4 of VWR 24 Tube Rack 1500 킠 on 1
+Delaying for 0 minutes and 1.0 seconds
+Touching tip
+Dispensing 3.2 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Blowing out at B1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from A7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into A8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to A8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at A8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from B7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into B8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to B8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at B8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into C8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to C8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at C8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into D8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to D8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at D8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from E7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into E8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to E8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at E8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from F7 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into F8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to F8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at F8 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from F4 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Picking up tip from G4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Mixing 4 times with a volume of 78.0 ul
+	Aspirating 78.0 uL from B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B5 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at B5 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to B5 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 20.0 uL from B5 of VWR 24 Tube Rack 1500 킠 on 1 at 3.024 uL/sec
+Moving to B5 of VWR 24 Tube Rack 1500 킠 on 1
+Delaying for 0 minutes and 1.0 seconds
+Touching tip
+Dispensing 3.2 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Blowing out at B1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from A9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into A10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to A10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at A10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from B9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into B10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to B10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at B10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into C10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to C10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at C10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into D10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to D10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at D10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from E9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into E10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to E10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at E10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from F9 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into F10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to F10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at F10 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Picking up tip from G4 of Opentrons 96 Filter Tip Rack 200 킠 on 8
+Picking up tip from H4 of Opentrons 96 Filter Tip Rack 20 킠 on 9
+Mixing 4 times with a volume of 78.0 ul
+	Aspirating 78.0 uL from B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Aspirating 78.0 uL from B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+	Dispensing 78.0 uL into B6 of VWR 24 Tube Rack 1500 킠 on 1 at 92.86 uL/sec
+Blowing out at B6 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to B6 of VWR 24 Tube Rack 1500 킠 on 1
+Aspirating 20.0 uL from B6 of VWR 24 Tube Rack 1500 킠 on 1 at 3.024 uL/sec
+Moving to B6 of VWR 24 Tube Rack 1500 킠 on 1
+Delaying for 0 minutes and 1.0 seconds
+Touching tip
+Dispensing 3.2 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Dispensing 3.2 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 3.78 uL/sec
+Touching tip
+Blowing out at B1 of VWR 24 Tube Rack 1500 킠 on 1
+Touching tip
+Moving to A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from A11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into A12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to A12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at A12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from B11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into B12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to B12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at B12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from C11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into C12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to C12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at C12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from D11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into D12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to D12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at D12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from E11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into E12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to E12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at E12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Moving to F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Mixing 5 times with a volume of 20.0 ul
+	Aspirating 20.0 uL from F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Aspirating 20.0 uL from F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+	Dispensing 20.0 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 65.002 uL/sec
+Aspirating 30.0 uL from F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Dispensing 30.0 uL into F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 37.144 uL/sec
+Delaying for 0 minutes and 1.0 seconds
+Moving to F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Delaying for 0 minutes and 2.0 seconds
+Blowing out at F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Moving to F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Aspirating 20.0 uL from F11 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Delaying for 0 minutes and 2.0 seconds
+Dispensing 20.0 uL into F12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10 at 7.56 uL/sec
+Moving to F12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Blowing out at F12 of ABI 96 Well Plate 250 킠 on Temperature Module GEN1 on 10
+Touching tip
+Dropping tip into A1 of Opentrons Fixed Trash on 12
+Dropping tip into A1 of Opentrons Fixed Trash on 12
