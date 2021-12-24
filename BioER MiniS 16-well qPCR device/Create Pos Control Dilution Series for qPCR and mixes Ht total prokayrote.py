@@ -55,8 +55,8 @@ def run(protocol: protocol_api.ProtocolContext):
     water = fuge_rack['A3'] # 100 uL water
 
     # LISTS
-    std_wells = [std_1, std_2, std_3, std_4, std_5, std_6, std_7, std_8, std_9, std_10, std_11, std_12, std_13, std_14, std_15]
-    std_conc = [std_4, std_5, std_6, std_7, std_8,]
+    std_wells = [std_1, std_2, std_3, std_4, std_5, std_6, std_7, std_8, std_9]
+    std_conc = [std_5, std_6, std_7, std_8, std_9]
     cols = [1, 3, 5, 7, 9, 11]
     rows = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H']
     
@@ -99,8 +99,8 @@ def run(protocol: protocol_api.ProtocolContext):
         p20.pick_up_tip()
         for row in rows:   
             p20.aspirate(18, mmp_tube)
-            # p20.move_to(mmp_tube)
-            # protocol.delay(seconds=2)
+            p20.move_to(mmp_tube.top())
+            protocol.delay(seconds=2)
             p20.touch_tip(v_offset=-5)
             p20.dispense(18, holder_1[row + str(col)])
         p20.drop_tip()

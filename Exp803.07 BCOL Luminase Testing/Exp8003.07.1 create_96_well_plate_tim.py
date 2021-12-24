@@ -111,7 +111,7 @@ def run(protocol: protocol_api.ProtocolContext):
     lurb = reagent_rack['B1'] #Raquel's V2 mix form 22 April 2021; 17424.5ul
     #epp_rack
     dATP = epp_rack['A1'] # ATP Should be at 0.1mM or 100uM; 1584ul
-    water = epp_rack['A2']  #use 1600 ul, add 1750
+    water = epp_rack['A2']  #use 1600 ul, add 1750, not water use lurb with no luciferase
     trash = epp_rack['D6'] # trash; receives some of the blowouts 
     
     
@@ -126,56 +126,20 @@ def run(protocol: protocol_api.ProtocolContext):
 # Add lurb
     count = 0
     sample_count = 0
-    lurb_h = fifty_ml_heights(12000, 88, 125)
+    lurb_h = fifty_ml_heights(1400, 88, 125)
     for i in range(len(cols)-1):
         p300.pick_up_tip()
         for row in rows:
             dest = row + str(cols[i])
             p300.aspirate(lurb_vol[count], lurb.bottom(lurb_h[sample_count]))
-            p300.touch_tip(lurb, v_offset = -5)
+            p300.touch_tip(lurb, v_offset = -7)
             p300.move_to(lurb.top())
             p300.dispense(lurb_vol[count], plate[dest].bottom(3))
             p300.move_to(plate[dest].bottom())
             sample_count += 1
         count += 1
-        p300.drop_tip()
+    p300.drop_tip()
 
-    # backup in case if satement didnt work
-    # # first 3 col nedd p20
-    # count = 0
-    # sample_count = 0
-    # detergent_h = fifty_ml_heights(7000, 24, 10)
-    # for col in cols[0:3]:
-    #     p20.pick_up_tip()
-    #     for row in rows:
-    #         dest = row + str(col)
-    #         p20.aspirate(detergent_vol[count], lurb.bottom(detergent_h[sample_count]))
-    #         #p300.touch_tip(lurb, v_offset = -5)
-    #         #p300.move_to(lurb.top())
-    #         p20.dispense(detergent_vol[count], plate[dest].bottom(3))
-    #         #p300.move_to(plate[dest].bottom())
-    #         sample_count += 1
-    #     count += 1
-
-    #     p20.drop_tip()
-
-    # backup in case if satement didnt work
-    # sample_count = 0
-    # detergent_h = fifty_ml_heights(6780, 64, 62)
-    # for col in cols[3:12]:
-    #     p300.pick_up_tip()
-    #     for row in rows:
-    #         dest = row + str(col)
-    #         p300.aspirate(detergent_vol[count], lurb.bottom(detergent_h[sample_count]))
-    #         #p300.touch_tip(lurb, v_offset = -5)
-    #         #p300.move_to(lurb.top())
-    #         p300.dispense(detergent_vol[count], plate[dest].bottom(3))
-    #         #p300.move_to(plate[dest].bottom())
-    #         sample_count += 1
-    #     count += 1
-    #     if count == 11:
-    #         break
-    #     p300.drop_tip()
     
     count = 0     
     for col in cols:
@@ -186,8 +150,6 @@ def run(protocol: protocol_api.ProtocolContext):
             for row in rows:
                 dest = row + str(cols[count])
                 p20.aspirate(detergent_vol[count], detergent.bottom(detergent_h[sample_count]))
-                p20.touch_tip(lurb, v_offset = -5)
-                p20.move_to(lurb.top())
                 p20.dispense(detergent_vol[count], plate[dest].bottom(3))
                 p20.move_to(plate[dest].bottom())
                 sample_count += 1
@@ -200,8 +162,6 @@ def run(protocol: protocol_api.ProtocolContext):
             for row in rows:
                 dest = row + str(cols[count])
                 p300.aspirate(detergent_vol[count], detergent.bottom(detergent_h[sample_count]))
-                p300.touch_tip(lurb, v_offset = -5)
-                p300.move_to(lurb.top())
                 p300.dispense(detergent_vol[count], plate[dest].bottom(3))
                 p300.move_to(plate[dest].bottom())
                 sample_count += 1
